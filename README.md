@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I 'm Abdul !!!
 
-<!--
-**abdulrahmansheikh/abdulrahmansheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Techie | So called `Full Stack Engineer`
+- 😎 Experienced Full Stack Engineer with 5+ years in the e-Commerce industry in the retail domain and with a vast array of knowledge in many different front end and backend languages, responsive frameworks, databases, and best code practices.
+- 👤 🏗 Expertise in analysis, Designing, developing and debugging many e-commerce applications in Hybris framework and micro-services architecture.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="abdulrahmansheikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+
+[linkedin]: https://www.linkedin.com/in/abdul-rahman-sheikh-mohamed-basheer-90369776/
