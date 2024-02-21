@@ -13,4 +13,4 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/abdul-rahman-sheikh-mohamed-basheer-90369776/
+[linkedin]: https://www.linkedin.com/in/abdulrahmansheikhm/
