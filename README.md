@@ -55,7 +55,6 @@ Recognised for leading cross-functional teams, setting engineering direction, an
 | **Category**              | **Skills & Technologies**                                                                                      |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
 | **Architecture Patterns** | Event-driven, Microservices, SOA, Serverless, Reactive, MVC, Circuit-breaker, Reactive Programming             |
-| **Platforms**             | SAP Commerce Cloud, SAP C4C CRM, SAP BTP                                                                       |
 | **Cloud Platforms**       | AWS, Azure, SAP                                                                                                |
 | **Programming Languages** | Java / J2EE, Spring Boot, Spring MVC, Kotlin, Scala, Node.js, Express JS, React, Angular, Spartacus            |
 | **Databases**             | MSSQL, MySQL, SAP HANA, AWS RDS, Amazon DynamoDB, Aurora, MongoDB, PostgreSQL, InfluxDB                        |
