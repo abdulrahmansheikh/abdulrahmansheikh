@@ -91,7 +91,6 @@ Recognised for leading cross-functional teams, setting engineering direction, an
 ---
 
 #### **Ausgrid | Solution Advisory**
-*Solutions Architect*
 *Jun 2024 – Present*  
 - Led architecture and advisory work for Ausgrid’s B2B platform transformation using BTP and Azure
 - Defined scalable governance and account modelling, improving security, provisioning, and cost controls.
@@ -103,7 +102,6 @@ Recognised for leading cross-functional teams, setting engineering direction, an
 
 
 #### **Zespri | Digital Transformation - Case Management Portal Modernisation**  
-*Solutions Architect*
 *Oct 2024 – Apr 2025*  
 - Platform Modernisation & Process Automation Leadership: Spearheaded comprehensive digital transformation initiative to automate manual claims processes and eliminate operational bottlenecks through intelligent workflow design.
 - Automated Process Reengineering: Architected guided validation workflows that reduced manual processing time by 70% and eliminated 100% of data entry errors through intelligent automation patterns
@@ -113,7 +111,6 @@ Recognised for leading cross-functional teams, setting engineering direction, an
 - Recognised for innovation and impact, shortlisted for three prestigious Supply Chain Excellence Awards: Digital Transformation, Retail & E-Commerce, and Food & Drink.
 
 #### **Rawson Group | Mobile App Development - PO Management**  
-*Solutions Architect*
 *Jun 2024 – Sep 2024*  
 - Mobile-First Process Automation for Construction: Led digital transformation of legacy PO management processes, eliminating paper-based workflows through an offline-capable mobile automation solution.
 - Legacy System Modernisation: Architected SAP MDK-based mobile application with offline synchronisation capabilities that reduced construction project delays by 25% and eliminated manual approval bottlenecks
@@ -121,7 +118,6 @@ Recognised for leading cross-functional teams, setting engineering direction, an
 - Construction Process Revolution: Delivered end-to-end mobile automation solution that transformed field operations, enabling 200+ construction workers to process POs digitally and reducing project delivery timelines by 25%.
 
 #### **Enterprise CI/CD Automation Platform**  
-*Solutions Architect*
 *Apr 2024 – Present*  
 - SaaS-Based Process Automation Architecture: Architected a comprehensive CI/CD automation platform addressing enterprise deployment challenges through standardised cloud integration patterns and automated governance workflows.
 - Multi-Cloud Process Automation: Designed and implemented AWS-native CI/CD workflows that supported independent deployments across backend, frontend, and microservices. Streamlined the delivery process, cutting deployment times by 70% and removing the need for manual intervention.
@@ -130,7 +126,6 @@ Recognised for leading cross-functional teams, setting engineering direction, an
 
 
 #### **AI-Powered Content Automation**  
-*Solutions Architect*
 *Jan 2024 – Mar 2024*  
 - Generative AI Process Integration: Led the design of an intelligent content automation solution by integrating AWS AI services with SAP Commerce. Transformed manual content creation processes into automated workflows that consistently reflect the brand’s standards.
 - Automated Content Generation Workflows: Implemented AWS Bedrock to automate content generation, translation, and SEO optimisation - increased content production time by 80%.
@@ -138,7 +133,6 @@ Serverless Integration Architecture: Designed a Lambda-based microservices archi
 - Content Process Revolution: Delivered an AI-powered automation solution that transformed manual content workflows, enabling marketing teams to generate brand-aligned content 10x faster while maintaining quality standards.
 
 #### **CSR | Event-Driven Process Automation**  
-*Solutions Architect*
 *Oct 2023 – Dec 2023*  
 - Serverless Process Orchestration: Designed an event-driven automation solution transforming synchronous SAP Commerce workflows into an asynchronous, scalable microservices architecture.
 Webhook-to-Workflow Automation: Designed event-based solution handling 10,000+ daily events with 99.95% reliability, eliminating manual intervention and reducing processing delays by 90%
@@ -146,7 +140,6 @@ Webhook-to-Workflow Automation: Designed event-based solution handling 10,000+ d
 Enterprise Event Automation Success: Delivered serverless automation platform processing 3M+ annual events with zero downtime, enabling real-time business process automation across multiple enterprise systems.
 
 #### **CSR | Customer Onboarding and Self-Service Portal**  
-*Solutions Architect*
 *Feb 2023 – Sep 2023*  
 - Enterprise Platform Modernisation & Cloud Migration: Led comprehensive digital transformation initiative modernising monolithic e-commerce architecture into an automated microservices ecosystem while orchestrating seamless AWS-to-Azure migration.
 - Automated Self-Service Process Architecture: Designed intelligent customer self-service workflows, reducing manual support interventions by 70% and improving service efficiency through automated onboarding processes using SAP BTP and Azure integration patterns
@@ -155,7 +148,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Enterprise Automation Excellence: Delivered cloud-native transformation enabling automated customer pricing, location-based services, and ERP integration (ECC & S4), resulting in 60% faster customer onboarding and enhanced operational efficiency across all business channels.
 
 #### **IPF | Digital Transformation**  
-*Solutions Architect*
 *Feb 2022 – Jan 2023*  
 - Led digital transformation across sales and service, enhancing portal usability and internal efficiency.
 - Architected an end-to-end solution integrating SAP Commerce, BTP, and ECC via SAP Integration Suite, reducing manual quoting effort by 60%.
@@ -163,7 +155,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Delivered scalable architecture patterns that streamlined order-to-cash processes, aligning with automation goals and cloud-native design.
 
 #### **CSR | Product and Content Management Automation**  
-*Solutions Architect*
 *Aug 2021 – Jan 2022*  
 - Modernised fragmented product data systems into a unified PIM solution with automated data flows.
 - Designed and deployed cloud-first architecture using SAP Integration Suite to automate Commerce PIM updates, reducing data latency by 75%.
@@ -171,7 +162,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Strengthened enterprise alignment through future-proof, standards-based architecture tailored for growth and automation.
 
 #### **Asaleo Care | Multi-Site Digital Platform Optimisation**  
-*Solutions Architect*
 *Jul 2021 – Aug 2021*  
 - Enabled B2B and B2C consolidation under a single platform while optimising deployment and infrastructure.
 - Delivered zero-downtime, multi-site deployment on SAP Commerce with rollback automation, reducing cutover time by 50%.
@@ -179,7 +169,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Elevated platform scalability by resolving infra licensing constraints through architecture reuse and shared services.
  
 #### **CSR | Enterprise Digital  Architecture Strategy**  
-*Solutions Architect*
 *Apr 2021 – Jul 2021*  
 - Defined an architecture strategy for a complex multi-cloud landscape with diverse enterprise apps and legacy systems.
 - Conducted 10+ discovery workshops to map and rationalise Apps, Sites, CMS, CRM, ERP, PIM, and DAM, shaping architecture patterns for hybrid integration.
@@ -187,7 +176,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Enabled unified governance and digital presence by aligning business objectives with scalable technical architecture.
 
 #### **Best & Less | Mobile PWA Launch**  
-*Principal Engineer*
 *Mar 2021 – Apr 2021*  
 - Accelerated mobile transformation via PWA without new app development, optimising time and cost.
 - Led design and rollout of a mobile-first PWA solution using the existing SAP Commerce backend, achieving MVP in under 6 weeks.
@@ -203,7 +191,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 ---
 
 #### **BIG W | Digital Commerce Modernisation**  
-*Lead Engineer*
 *May 2019 – Mar 2021*  
 - Transformed legacy monolithic retail platform into a scalable microservices architecture.
 - Decomposed core features into 20+ microservices and deployed containerised services using EKS, reducing infrastructure costs by 35%.
@@ -211,7 +198,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Demonstrated cloud-native leadership by driving innovation, resilience, and speed in a mission-critical retail platform.
 
 #### **Woolworths | Stock Alert App**  
-*Lead Engineer*
 *Apr 2019 – May 2019*  
 - Developed an internal tool to improve stock accuracy and drive in-aisle accountability.
 - Delivered a single-page React app with GCP hosting, Google SSO, and real-time DB interaction, enhancing store efficiency within 2 weeks.
@@ -219,7 +205,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Proved ability to deliver quick-win solutions that address operational pain points with measurable impact.
 
 #### **TCS | Quiz & Learning Platform**  
-*Lead Engineer*
 *Apr 2019 – May 2019*  
 - Empowered student engagement through an interactive, cloud-hosted learning portal.
 - Built a ReactJS-based quiz admin interface integrated with Firebase, enabling live question management and leaderboard insights.
@@ -227,7 +212,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Showcased agility and impact in delivering scalable educational tech with social outcomes.
 
 #### **TCS | DevSecOps Enablement**  
-*Lead Engineer*
 *Mar 2019 – Apr 2019*  
 - Built an organisation-wide DevSecOps framework to accelerate secure cloud onboarding.
 - Automated infra provisioning with Terraform and orchestrated Kubernetes workloads via AKS and FluxCD, improving setup times by 70%.
@@ -235,13 +219,11 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Delivered an enterprise-ready blueprint that modernised DevOps culture across business units.
 
 #### **MITRE10 | Commerce Upgrade & Migration**  
-*Team Lead*
 *Feb 2019 – Mar 2019*  
 - Engaged to provide SAP Commerce expertise and focused on resolving critical issues during the final transition phase.
 - Recommended integrating new SAP Commerce features into the business operations to realise added business value.
 
 #### **Woolworths B2B | Business Foundation**  
-*Team Lead*
 *Oct 2018 – Feb 2019*  
 - Established an integrated B2B portal for diverse customer segments, including exporters and stores.
 - Designed and built Azure-based staging systems using Logic Apps and Function Apps for inbound/outbound integration with SAP Hybris.
@@ -249,7 +231,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Enabled Woolworths to scale its wholesale operations with a stable, unified B2B platform.
 
 #### **SiteOne (US) | B2B Portal**  
-*Lead Engineer*
 *Aug 2017 – Sep 2018*  
 - Built a robust B2B portal serving the US & Canada market for SiteOne’s landscape supply network.
 - Led the design and rollout of a SAP Hybris-based e-commerce solution supporting multi-region B2B operations.
@@ -257,7 +238,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Delivered a scalable and secure commerce solution tailored for large-scale wholesale operations.
 
 #### **NAPA Online (US) | OMS Implementation**  
-*Developer*
 *Jun 2017 – Jul 2017*  
 - Optimised sourcing and order management with Hybris OMS integration.
 - Contributed to OMS module development and Hybris sourcing logic, improving order processing times by 40%.
@@ -265,7 +245,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Strengthened the reliability of critical supply chain flows in automotive retail.
 
 #### **EIS Inc | Commerce Transformation**  
-*Developer*
 *Aug 2016 – May 2017*  
 - Migrated from old legacy platform to Hybris B2B platform and unified commerce across B2B/B2C channels.
 - Delivered full-stack Hybris implementation and integrated it with TIBCO for real-time data exchange with third-party systems.
@@ -273,7 +252,6 @@ Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B
 - Set a foundation for scalable digital operations across EIS’s distribution business.  
 
 #### **TCS COE (R&D)**  
-*Developer*
 *May 2015 – Jul 2016*  
 - Developed accelerators, demos, and reusable assets to drive SAP Commerce sales and delivery.
 - Created demo storefronts and utilities that became part of TCS’s global best practices library.
