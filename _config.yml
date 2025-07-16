@@ -1,3 +1,33 @@
 title: Abdul Rahman Sheikh Mohamed Basheer
+description: >-
+  Principal Engineer and Solutions Architect specialising in Java, Spring, AWS, Azure, DevOps, and SAP BTP.  
+  10+ years delivering enterprise-grade solutions in complex environments.
 logo: /assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
+show_downloads: false
+
+# Social links (automatically shown if set)
+email: abdulrahman.mars@gmail.com
+linkedin_username: abdulrahmansheikhm
+github_username: abdulrahmansheikh  # Replace with your GitHub username
+location: Sydney, Australia
+
+# Customise layout behaviour
+show_navigation: true
+show_footer: true
+show_contact: true
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Optional: Custom navigation links
+navigation:
+  - title: About
+    url: /
+  - title: Resume
+    url: /resume
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
