@@ -54,20 +54,21 @@ Recognised for leading cross-functional teams, setting engineering direction, an
 
 
 | Category                  | Skills/Technologies                                                                                                              |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **Architecture Patterns** | Event-driven, Microservices, SOA, Serverless, Reactive, MVC, Circuit-breaker, Reactive Programming                               |
-| **Cloud Platforms**       | AWS, Azure, SAP                                                                                                                  |
-| **Programming Languages** | Java / J2EE, Spring Boot, Spring MVC, Kotlin, Scala, Node.js, Express JS, React, Angular, Spartacus                              |
-| **Databases**             | MSSQL, MySQL, SAP HANA, AWS RDS, Amazon DynamoDB, Aurora, MongoDB, PostgreSQL, InfluxDB                                          |
-| **Development Methods**   | Pair Programming (XP), TDD, BDD                                                                                                  |
-| **Team Management**       | Agile, Waterfall, Lean, Scrum, Spotify Model, RAD, Leadership, Stakeholder Engagement, Advisory, Communication                   |
-| **Build Tools**           | Docker, Ant, Maven, Packer, Groovy, Gradle, Grunt, Gulp                                                                          |
-| **Testing Tools**         | Katalon, Apache JMeter, JUnit, Mockito, Gatling, Postman                                                                         |
-| **Identity & Security**   | OpenID Connect, OAuth2, Azure AD B2C, SAP IAS/IPS, Okta, SonarQube, ECR, AWS Guardrails, AWS Control Tower                       |
-| **DevOps & CI/CD**        | Kubernetes, Helm, ArgoCD, Flux, Jenkins, Shell Scripting, Azure DevOps, GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy  |
-| **Infrastructure as Code**| Terraform, Terragrunt, AWS CloudFormation, AWS CDK, Azure ARM Templates                                                          |
-| **Monitoring Tools**      | AppDynamics, Splunk, OpenSearch, ELK, Kibana, AWS CloudWatch, Azure Monitor, Prometheus, Grafana                                 |
-| **SaaS Platforms**        | SAP Commerce Cloud, SAP BTP                                                                                                      |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Architecture Patterns**  | Event-driven, Microservices, SOA, Serverless, Reactive, MVC, Circuit-breaker, Reactive Programming                    |
+| **Cloud Platforms**        | AWS, Azure, SAP                                                                                                        |
+| **Programming Languages & Frameworks** | Java / J2EE, Spring Boot, Spring MVC, Kotlin, Scala, Node.js, Express JS, React, Angular, Spartacus      |
+| **Databases**              | MSSQL, MySQL, SAP HANA, AWS RDS, Amazon DynamoDB, Aurora, MongoDB, PostgreSQL, InfluxDB                               |
+| **DevOps & CI/CD**         | Kubernetes, Helm, ArgoCD, Flux, Jenkins, Shell Scripting, Azure DevOps, GitHub Actions, AWS CodePipeline, CodeBuild, CodeDeploy |
+| **SaaS & Enterprise Platforms** | SAP Commerce Cloud, SAP BTP                                                                                  |
+| **Infrastructure as Code** | Terraform, Terragrunt, AWS CloudFormation, AWS CDK, Azure ARM Templates                                               |
+| **Build Tools**            | Docker, Ant, Maven, Packer, Groovy, Gradle, Grunt, Gulp                                                               |
+| **Testing & QA Tools**     | Katalon, Apache JMeter, JUnit, Mockito, Gatling, Postman                                                              |
+| **Identity & Security**    | OpenID Connect, OAuth2, Azure AD B2C, SAP IAS/IPS, Okta, SonarQube, ECR, AWS Guardrails, AWS Control Tower            |
+| **Monitoring & Observability** | AppDynamics, Splunk, OpenSearch, ELK, Kibana, AWS CloudWatch, Azure Monitor, Prometheus, Grafana              |
+| **Development Methodologies** | Pair Programming (XP), Test-Driven Development (TDD), Behaviour-Driven Development (BDD)                         |
+| **Delivery Methodologies**        | Agile, Waterfall, Lean, Scrum, SAFe, Rapid Application Development (RAD), Value Engineering, Incremental Delivery, Design Thinking |
+| **Team Leadership & Management** | Technical Leadership, Stakeholder Engagement, Team Enablement, Hiring, Coaching, Mentoring, Performance Management, Cross-functional Team Leadership, Capability Building, Engineering Culture, Change Management |
 
 ---
 
