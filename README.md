@@ -136,16 +136,16 @@ Serverless Integration Architecture: Designed a Lambda-based microservices archi
 #### **CSR | Event-Driven Process Automation**  
 *Oct 2023 – Dec 2023*  
 - Serverless Process Orchestration: Designed an event-driven automation solution transforming synchronous SAP Commerce workflows into an asynchronous, scalable microservices architecture.
-Webhook-to-Workflow Automation: Designed event-based solution handling 10,000+ daily events with 99.95% reliability, eliminating manual intervention and reducing processing delays by 90%
+- Webhook-to-Workflow Automation: Designed event-based solution handling 10,000+ daily events with 99.95% reliability, eliminating manual intervention and reducing processing delays by 90%
 - Asynchronous Integration Patterns: Implemented SNS/SQS messaging architecture, enabling precise event filtering and routing, improving system responsiveness by 75% and reducing infrastructure costs by 35%
-Enterprise Event Automation Success: Delivered serverless automation platform processing 3M+ annual events with zero downtime, enabling real-time business process automation across multiple enterprise systems.
+- Enterprise Event Automation Success: Delivered serverless automation platform processing 3M+ annual events with zero downtime, enabling real-time business process automation across multiple enterprise systems.
 
 #### **CSR | Customer Onboarding and Self-Service Portal**  
 *Feb 2023 – Sep 2023*  
 - Enterprise Platform Modernisation & Cloud Migration: Led comprehensive digital transformation initiative modernising monolithic e-commerce architecture into an automated microservices ecosystem while orchestrating seamless AWS-to-Azure migration.
 - Automated Self-Service Process Architecture: Designed intelligent customer self-service workflows, reducing manual support interventions by 70% and improving service efficiency through automated onboarding processes using SAP BTP and Azure integration patterns
 - Content & Dynamic Price Catalog: Led redesign of price and content management flows, enabling dynamic catalogue generation and location-specific pricing, improving accuracy by 70%.
-Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B2C authentication solution enabling seamless SSO across all digital platforms, eliminating authentication bottlenecks and reducing login-related support tickets by 85%
+- Multi-Cloud Integration & SSO Automation: Architected enterprise-wide Azure AD B2C authentication solution enabling seamless SSO across all digital platforms, eliminating authentication bottlenecks and reducing login-related support tickets by 85%
 - Enterprise Automation Excellence: Delivered cloud-native transformation enabling automated customer pricing, location-based services, and ERP integration (ECC & S4), resulting in 60% faster customer onboarding and enhanced operational efficiency across all business channels.
 
 #### **IPF | Digital Transformation**  
